@@ -17,8 +17,8 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "Park Plaza WiFi";
-const char* password = "";
+const char* ssid = "YOUR SSID";
+const char* password = "YOUR PASSWORD";
 // const char* serverName = "https://fc48-213-147-125-202.ngrok-free.app/convert";
 const char* serverName = "http://173.212.218.68:5000/convert2";
 
